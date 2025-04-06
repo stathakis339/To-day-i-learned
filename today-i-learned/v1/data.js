@@ -27,7 +27,7 @@ const initialFacts = [
       "https://www.mother.ly/parenting/millennial-dads-spend-more-time-with-their-kids",
     category: "society",
     votesInteresting: 11,
-    votesMindblowing: 2,
+    // votesMindblowing: 2,
     votesFalse: 0,
     createdIn: 2019,
   },

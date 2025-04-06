@@ -110,7 +110,6 @@ btn.addEventListener("click", function () {
 console.log([7, 64, 6, -23, 11].filter((el) => el > 10));
 console.log([7, 64, 6, -23, 11].find((el) => el > 10));
 
-/*
 let votesInteresting = 23;
 let votesMindblowing = 5;
 const text = "Lisbon is the capital of Portugal";
@@ -127,7 +126,6 @@ const isCorrect = votesFalse < totalUpvotes;
 console.log(isCorrect);
 
 console.log(parseInt("24.533cc"));
-*/
 
 /*
 function calcFactAge(year) {
